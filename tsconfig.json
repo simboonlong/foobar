@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "rootDir": "src"
+  },
+  "include": ["./src/**/*.ts"],
+  "exclude": ["node_modules"]
+}
