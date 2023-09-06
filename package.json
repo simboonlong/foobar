@@ -1,5 +1,5 @@
 {
-  "name": "foobar",
+  "name": "@simboonlong/foobar",
   "version": "1.0.0",
   "description": "foobar for anything.",
   "main": "dist/cjs/index.js",
