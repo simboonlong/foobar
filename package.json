@@ -20,5 +20,8 @@
   "homepage": "https://github.com/simboonlong/foobar#readme",
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
